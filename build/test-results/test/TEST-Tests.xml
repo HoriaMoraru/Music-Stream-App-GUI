@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="16" skipped="0" failures="0" errors="0" timestamp="2023-02-08T15:44:33" hostname="DESKTOP-QG4IEUO" time="0.319">
+  <properties/>
+  <testcase name="test2AddStream()" classname="Tests" time="0.121"/>
+  <testcase name="test12RecommendStreamAudiobook()" classname="Tests" time="0.013"/>
+  <testcase name="testTheTest()" classname="Tests" time="0.001"/>
+  <testcase name="test3DeleteStream()" classname="Tests" time="0.013"/>
+  <testcase name="test15MixedActions()" classname="Tests" time="0.018"/>
+  <testcase name="test8ListAudiobooksByAuthor()" classname="Tests" time="0.038"/>
+  <testcase name="test6SurpriseSongs()" classname="Tests" time="0.009"/>
+  <testcase name="test11RecommendStreamPodcast()" classname="Tests" time="0.007"/>
+  <testcase name="test1ListSongsFromArtists()" classname="Tests" time="0.008"/>
+  <testcase name="test10AddMultipleStreams()" classname="Tests" time="0.011"/>
+  <testcase name="test13MultipleSurpriseStreamRecommendation()" classname="Tests" time="0.011"/>
+  <testcase name="test7ListPodcastsByPodcastAuthor()" classname="Tests" time="0.01"/>
+  <testcase name="test4ListenToStream()" classname="Tests" time="0.01"/>
+  <testcase name="test9ListUsersMultipleStreams()" classname="Tests" time="0.01"/>
+  <testcase name="test14AddAndRecommendPodcasts()" classname="Tests" time="0.011"/>
+  <testcase name="test5RecommendSongs()" classname="Tests" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

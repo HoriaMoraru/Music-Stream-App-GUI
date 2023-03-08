@@ -1,0 +1,14 @@
+
+b
+java:S2677'"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡
+^
+java:S5361)"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¿æı
+b
+java:S2677B"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡
+c
+java:S5361E"HReplace this call to "replaceAll()" by a call to the "replace()" method.(×†Ìüÿÿÿÿ
+b
+java:S2677Y"LUse or store the value returned from "readLine" instead of throwing it away.(™¸¡
+c
+java:S5361["HReplace this call to "replaceAll()" by a call to the "replace()" method.(×†Ìüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ
